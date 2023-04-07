@@ -15,32 +15,32 @@ This manual will establish a set of guidelines for best practices when configuri
 It is crucial for new members who join the discord server to understand these roles and who holds them, as they are typically the first things they encounter. Here are some general guidelines:
 
 
-* **Create separate roles for different levels of access:
-    **It's a good idea to create different roles with varying levels of permissions based on the responsibilities of different members. For example, you may want to have a role for moderators who have the ability to manage channels, kick/ban members, and mute other users. You may also want to have a role for regular members who have limited permissions.
-* **Assign roles based on responsibilities:
-    **Once you have created roles, it's important to assign them to members based on their responsibilities. This will ensure that members have the appropriate permissions to carry out their tasks. You can assign roles by going to Server Settings > Roles.
-* **Use channel-specific permissions:
-    **You can also set channel-specific permissions to give members access to specific channels. For example, you may want to create a channel for moderators where only members with the moderator role have access.
-* **Use the "@everyone" role sparingly:
-    **The "@everyone" role gives all members of the server the same permissions. It's best to use this role sparingly and only give it the minimum necessary permissions. This will prevent members from accidentally or intentionally abusing their permissions.
-* **Regularly review and update permissions:
-    **It's important to regularly review and update permissions to ensure that members have the appropriate level of access. For example, you may want to remove a member's moderator role if they are no longer actively moderating the server.
+* **Create separate roles for different levels of access:**
+    It's a good idea to create different roles with varying levels of permissions based on the responsibilities of different members. For example, you may want to have a role for moderators who have the ability to manage channels, kick/ban members, and mute other users. You may also want to have a role for regular members who have limited permissions.
+* **Assign roles based on responsibilities:**
+    Once you have created roles, it's important to assign them to members based on their responsibilities. This will ensure that members have the appropriate permissions to carry out their tasks. You can assign roles by going to Server Settings > Roles.
+* **Use channel-specific permissions:**
+    You can also set channel-specific permissions to give members access to specific channels. For example, you may want to create a channel for moderators where only members with the moderator role have access.
+* **Use the "@everyone" role sparingly:**
+    The "@everyone" role gives all members of the server the same permissions. It's best to use this role sparingly and only give it the minimum necessary permissions. This will prevent members from accidentally or intentionally abusing their permissions.
+* **Regularly review and update permissions:**
+    It's important to regularly review and update permissions to ensure that members have the appropriate level of access. For example, you may want to remove a member's moderator role if they are no longer actively moderating the server.
 
 
 The recommended permission structure for a Discord server is one that is well-organized, clearly defined, and regularly reviewed and updated to ensure the smooth operation of the server.
 
-* **Owner:
-    **The server owner, who has complete control over the server's settings and permissions, is typically the person who created the server. However, it's important to note that it's recommended to not show the owner role to everyone and to share the responsibilities with another trusted member who has the "Administrator" role on the server. This helps to prevent a single individual from having complete control of the server in case something happens to the owner. 
-* **Admin: 
-    **Administrators are tasked with overseeing the server and enforcing its regulations. They are granted broad permissions, including the authority to supervise channels, remove/ban members, and silence other users.
-* **Moderator:
-    **Moderators are in charge of ensuring that the server rules are followed and that chat activity is monitored. They are given permissions to remove messages, eject members, and silence other users. 
-* **Helper:
-    **Helpers are present to offer assistance to members with common inquiries, guide individuals to appropriate resources, and contribute to general discussions. They often serve as intermediaries between the server's leadership and the rest of the community, forwarding relevant information to the appropriate parties.
-* **Member:
-    **Members are the default role for all users who have joined the server. They have restricted permissions and are unable to perform any administrative functions. 
-* **Bot:
-    **If you have any bots on your server, you may want to create a specific role for them. This will allow you to give them the necessary permissions to perform their functions without giving them access to sensitive server settings.
+* **Owner:**
+    The server owner, who has complete control over the server's settings and permissions, is typically the person who created the server. However, it's important to note that it's recommended to not show the owner role to everyone and to share the responsibilities with another trusted member who has the "Administrator" role on the server. This helps to prevent a single individual from having complete control of the server in case something happens to the owner. 
+* **Admin:** 
+    Administrators are tasked with overseeing the server and enforcing its regulations. They are granted broad permissions, including the authority to supervise channels, remove/ban members, and silence other users.
+* **Moderator:**
+    Moderators are in charge of ensuring that the server rules are followed and that chat activity is monitored. They are given permissions to remove messages, eject members, and silence other users. 
+* **Helper:**
+    Helpers are present to offer assistance to members with common inquiries, guide individuals to appropriate resources, and contribute to general discussions. They often serve as intermediaries between the server's leadership and the rest of the community, forwarding relevant information to the appropriate parties.
+* **Member:**
+    Members are the default role for all users who have joined the server. They have restricted permissions and are unable to perform any administrative functions. 
+* **Bot:**
+    If you have any bots on your server, you may want to create a specific role for them. This will allow you to give them the necessary permissions to perform their functions without giving them access to sensitive server settings.
 
 
 Remember, these roles are just suggestions, and the specific roles and permissions needed for your server will depend on its purpose and size. It's important to regularly review and adjust your roles and permissions to ensure that they are appropriate for your server's needs.
