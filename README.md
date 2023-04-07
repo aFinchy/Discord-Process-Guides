@@ -6,16 +6,17 @@ This directory contains a compilation of guides, procedural documents, and illus
 
 This manual was created to assist members who are interested in establishing GitHub repositories or maintaining current ones and seeking to explore their true capabilities, with step-by-step instructions and illustrative examples.
 
-[GitHub Markdown](/process-docs-and-markdown/github-markdown.md)
+[GitHub Markdown](/github-markdown.md)
 
 ## Discord Documents
 
-[Discord Permission Guide](/process-docs-and-markdown/discord-permissions.md)<br>
-[Discord Process Document](/process-docs-and-markdown/discord-process.md)<br>
-[Discord Tips, Tricks and Troubleshooting](/process-docs-and-markdown/discord-tips-tricks-troubleshooting.md)
+[Discord Permission Guide](/discord-permissions.md)<br>
+[Discord Process Document](/discord-process.md)<br>
+[Discord Tips, Tricks and Troubleshooting](/discord-tips-tricks-troubleshooting.md)
 
 ### Discord Moderation
 
-[Discord Moderation Guidelines](/process-docs-and-markdown/discord-moderation-guidelines.md)<br>
-[Discord Moderation Course](/process-docs-and-markdown/discord-moderation-course.md)
+[Discord Moderation Guidelines](/discord-moderation-guidelines.md)<br>
+[Discord Moderation Guidelines Quiz](/discord-moderation-guidelines-Quiz.md)<br>
+[Discord Promotion & Demotion](/promotion-and-demotion-guidelines.md)<br>
 
