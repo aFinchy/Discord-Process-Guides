@@ -635,7 +635,7 @@ You can also use words, to fit your writing style more closely[^note].
 
 Reners to: 
 
-![footnote](/process-docs-and-markdown/files/media/footer.png)
+![footnote](/files/media/footer.png)
 
 
 ## YouTube Videos
