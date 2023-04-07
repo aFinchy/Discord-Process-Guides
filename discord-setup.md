@@ -137,7 +137,7 @@ To set up roles and permissions, you can access the Server Settings by clicking 
 
 Once you have created your roles, you can assign them to different users by right-clicking on their name in the member list and selecting "Roles." You can also assign roles to users based on their activity or level of participation in the server by using Discord bots. <br>
 
-For more information on setting up roles and permissions, including best practices and tips, you can check out the Discord Permissions Guide found here: https://github.com/o3de/community/blob/main/process-docs-and-markdown/discord-permissions.md <br>
+For more information on setting up roles and permissions, including best practices and tips, you can check out the Discord Permissions Guide found here: https://github.com/aFinchy/Discord-Process-Guides/blob/main/discord-permissions.md <br>
 
 Here is a guide on setting up channel permissions, syncing between categories, and more: <br>
 
@@ -310,7 +310,7 @@ By implementing these strategies and continuously seeking member feedback, serve
 
 Establishing a moderation team and guidelines is essential to maintaining a positive and healthy community environment. The moderation team should consist of a group of dedicated individuals who are committed to upholding the community's rules and guidelines. It is important to choose moderators who are knowledgeable about the community, experienced in conflict resolution, and able to remain impartial in difficult situations. <br>
 
-To establish moderation guidelines, it is recommended to use an existing template as a starting point. we have created a comprehensive Moderation Guidelines document that covers topics such as handling disruptive behavior, enforcing rules consistently, and providing support to community members. This document can be accessed here: https://github.com/o3de/community/blob/main/process-docs-and-markdown/discord-moderation-guidelines.md and serves as a great starting point for any community looking to establish their own moderation guidelines. <br>
+To establish moderation guidelines, it is recommended to use an existing template as a starting point. we have created a comprehensive Moderation Guidelines document that covers topics such as handling disruptive behavior, enforcing rules consistently, and providing support to community members. This document can be accessed here: https://github.com/aFinchy/Discord-Process-Guides/blob/main/discord-moderation-guidelines.md and serves as a great starting point for any community looking to establish their own moderation guidelines. <br>
 
 When establishing moderation guidelines, it is important to ensure that they are clear, concise, and easy to understand. It is also important to communicate the guidelines to the community so that everyone is aware of the rules and the consequences for breaking them. This can be done through a dedicated channel or section on the community website. <br>
 
