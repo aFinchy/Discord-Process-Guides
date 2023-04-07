@@ -58,7 +58,7 @@ At present, there is no existing application process for staff members. The curr
 The next step is to carry out an initial screening of the candidate. This involves thoroughly examining their past messages on Discord to assess their communication skills, level of professionalism, and familiarity with the community. Additionally, it may involve checking their activity and engagement on platforms such as GitHub, Reddit, and others to gauge their interactions, comments, or contributions.
 
 **Candidate Evaluation**<br>
-Once the initial screening is complete, it is important to compile references and instances of the candidate's language, helpfulness, and contributions to ensure that the right individual is selected. This includes ensuring that they are following all the guidelines outlined in the [Moderation Guidelines Document, which can be found here:] (https://github.com/o3de/community/blob/main/process-docs-and-markdown/discord-moderation-guidelines.md)
+Once the initial screening is complete, it is important to compile references and instances of the candidate's language, helpfulness, and contributions to ensure that the right individual is selected. This includes ensuring that they are following all the guidelines outlined in the [Discord Moderation Guidelines](https://github.com/aFinchy/Discord-Process-Guides/blob/main/discord-moderation-guidelines.md)
 
 By adhering to these steps, the community can ensure that the staff members are carefully selected based on their qualifications, abilities, and alignment with the community's values and culture. This can ultimately lead to a positive and productive community environment and contribute to the overall growth and success of the community.
 
