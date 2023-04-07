@@ -11,7 +11,7 @@ This manual was created to assist members who are interested in establishing Git
 ## Discord Documents
 
 [Discord Permission Guide](/discord-permissions.md)<br>
-[Discord Process Document](/discord-process.md)<br>
+[Discord Process Document](/discord-setup.md)<br>
 [Discord Tips, Tricks and Troubleshooting](/discord-tips-tricks-troubleshooting.md)
 
 ### Discord Moderation
