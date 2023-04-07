@@ -322,7 +322,7 @@ In summary, establishing a moderation team and guidelines is crucial for maintai
 
 For those interested in learning more about monitoring server activity and enforcing rules, there is a comprehensive guide available in the O3DE Community GitHub repository. This guide, called the Discord Moderation Guidelines, provides detailed information on how to monitor server activity, enforce rules, and handle rule violations. It also includes information on how to handle specific types of rule violations, such as harassment and hate speech. <br>
 
-The Discord Moderation Guidelines can be accessed at the following link:  <br>https://github.com/o3de/community/blob/main/process-docs-and-markdown/discord-moderation-guidelines.md. This guide is an excellent resource for any community that is looking to establish a moderation team and ensure a safe and positive environment for all members.
+The Discord Moderation Guidelines can be accessed at the following link:  <br>https://github.com/aFinchy/Discord-Process-Guides/blob/main/discord-moderation-guidelines.md. This guide is an excellent resource for any community that is looking to establish a moderation team and ensure a safe and positive environment for all members.
 
 ### Regularly updating and improving the server based on member feedback and analytics
 
